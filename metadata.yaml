@@ -1,0 +1,28 @@
+_repo: Expansion-and-Conflict_21537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dodd, William Edward
+    alias: Dodd, William E. (William Edward)
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '24753'
+    url: http://www.gutenberg.org/2009/agents/24753
+description: ''
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21537'
+  lccn: '15009448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History -- 1783-1865'
+title: Expansion and Conflict
+url: http://www.gutenberg.org/ebooks/21537
